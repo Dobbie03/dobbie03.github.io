@@ -61,9 +61,9 @@ main {
   padding: 24px;
 }
 
-.avitar {
+.avatar {
   background-color: rgba(0, 0, 0, 0.1);
-  background-image: url(../img/avitar.jpg);
+  background-image: url(../img/avatar.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 101%;
